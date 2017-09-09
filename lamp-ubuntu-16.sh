@@ -6,4 +6,3 @@ apt-get -y install php7.0-mysql php7.0-curl php7.0-gd php7.0-intl php-pear php-i
 apt-get -y install php7.0-opcache php-apcu
 systemctl restart apache2
 apt-get -y install phpmyadmin
-systemctl restart apache2
